@@ -11,27 +11,6 @@ It analyzes transaction data to identify potentially fraudulent activities, help
 - Model evaluation using accuracy, precision, recall, F1-score, and confusion matrix
 - Fraud probability predictions for new transactions
 
-## 📂 Project Structure
-
-online-payment-fraud-detection/
-│
-├── data/                     # Raw and processed datasets
-│   └── transactions.csv
-│
-├── notebooks/                # Jupyter Notebooks
-│   └── Online payment fraud detection.ipynb
-│
-├── src/                      # Python scripts for data processing & modeling
-│   ├── data_preprocessing.py
-│   ├── eda.py
-│   ├── model_training.py
-│   └── model_evaluation.py
-│
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-
-
-
 ## 🛠️ Technologies Used
 - **Python** 3.x
 - **Pandas** – Data manipulation
