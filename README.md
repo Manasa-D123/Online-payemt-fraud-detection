@@ -29,7 +29,7 @@ online-payment-fraud-detection/
 │
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
-└── LICENSE                   # License file
+
 
 
 ## 🛠️ Technologies Used
